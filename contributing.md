@@ -201,4 +201,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Valorant · Updated 2026-11-08 · Shared under the MIT License*
+*Valorant · Updated 2026-11-09 · Shared under the MIT License*
